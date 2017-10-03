@@ -133,5 +133,5 @@ if __name__ == '__main__':
     driver = webdriver.Firefox()
     wait = ui.WebDriverWait(driver,18)
 
-    LoginWeibo("513949729@qq.com","JTRjdt036")
-    VisitPersonPage("nvliu66",5)
+    LoginWeibo("*******","*******")
+    VisitPersonPage("weibo url",5)
